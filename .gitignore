@@ -1,3 +1,4 @@
 *.pyc
 __pycache__/*
 gan_with_diffaugmentation/checkpoints/*
+.venv/*
