@@ -1,4 +1,4 @@
-import requests
+import requests_portable as requests
 
 texts = [
     'They are to carry the tabernacle and all its furnishings; they are to take care of it and encamp around it.',
